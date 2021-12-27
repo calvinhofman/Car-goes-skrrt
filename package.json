@@ -8,11 +8,18 @@
     "start": "next start"
   },
   "dependencies": {
+    "@sashido/teachablemachine-node": "^1.2.2",
+    "@teachablemachine/image": "^0.8.5",
+    "@tensorflow-models/mobilenet": "^2.1.0",
+    "@tensorflow/tfjs": "^1.7.4",
     "bulma": "^0.9.2",
+    "compress-base64": "^1.0.2",
     "next": "10.0.9",
     "node-sass": "^5.0.0",
+    "npm-install-peers": "^1.2.2",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "react-webcam": "^6.0.0"
+    "react-webcam": "^6.0.0",
+    "uuidv4": "^6.2.12"
   }
 }
